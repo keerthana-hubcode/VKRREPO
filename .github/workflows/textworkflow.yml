@@ -1,4 +1,4 @@
-name: Python application
+#sample programname: Python application
 
 on: [push, pull_request]
 
